@@ -36,3 +36,5 @@ Push your branch to the server. Because this is the first time you're pushing, t
 Command line: `git push --set-upstream origin BRANCHNAME`
 
 ## Step 8
+
+Wait a few minutes. Then go to [https://github.com/idh-cologne-sprachverarbeitung-mit-r/exercise-01/actions](https://github.com/idh-cologne-sprachverarbeitung-mit-r/exercise-01/actions), select your branch and watch for the results. If your commit has a green checkmark, you're good to go. If you see a red cross, there is a mistake in your code. In this case, you can click on the commit message and inspect the details of the mistake. After that, you should go back to step 4, fix the bug, and add/commit/push again.
