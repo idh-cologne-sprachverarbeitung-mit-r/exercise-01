@@ -31,6 +31,8 @@ Commit the file to your branch in your local repository, and provide a commit me
 Command line: `git commit -m "Done with the exercise"`
 
 ## Step 7 
-Push your branch to the server.
+Push your branch to the server. Because this is the first time you're pushing, the server doesn't know about your branch, which is why have to state that the upstream branch (= the one on the server) should have the same name.
 
-Command line: `git push`
+Command line: `git push --set-upstream origin BRANCHNAME`
+
+## Step 8
