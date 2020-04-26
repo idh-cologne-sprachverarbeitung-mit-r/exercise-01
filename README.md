@@ -1,6 +1,6 @@
 # Exercise 1: Setting Up
 
-The goal of the first exercise is to verify that everyone has a working setup and that submitting and testing the exercises works properly. It there does have very little R content.
+The goal of the first exercise is to verify that everyone has a working setup and that submitting and testing the exercises works properly. It therefore does have very little R content.
 
 
 ## Step 1
