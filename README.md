@@ -15,7 +15,7 @@ On the command line: `git clone https://github.com/idh-cologne-sprachverarbeitun
 ## Step 3
 Create a new branch. To do that, you need to pick a name, but we need to make sure that everyone uses a different branch name. If everyone uses their first name, that should not be a problem. Otherwise, think of the least popular band you're fan of and use their name, or think of something else, as long as noone else uses it too :)
 
-On the command line: `git checkout -v BRANCHNAME`
+On the command line: `git checkout -b BRANCHNAME`
 
 ## Step 4
 Open the file `R/exercise.R` and add `World!` to the string. After that the line should read `string <- "Hello World!"`. Don't forget to save the file.
@@ -35,4 +35,3 @@ Push your branch to the server. Because this is the first time you're pushing, t
 
 Command line: `git push --set-upstream origin BRANCHNAME`
 
-## Step 8
