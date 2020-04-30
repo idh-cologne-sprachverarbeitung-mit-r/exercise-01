@@ -1,5 +1,7 @@
 # Exercise 1: Setting Up
 
+*In general: Please ask questions in the [ilias-Forum]() for this course, so that others can also see the question and answer*.
+
 The goal of the first exercise is to verify that everyone has a working setup and that submitting and testing the exercises works properly. It there does have very little R content.
 
 
